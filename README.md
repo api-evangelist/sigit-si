@@ -64,5 +64,101 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-sigit-si is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://sigit.si/
+siGit is a Git hosting platform for the AI era, offering versioned repositories and open‑weights model storage with full model cards and LFS‑backed files. It provides a unified UI where code and large AI models coexist, enabling developers to manage source code and massive model weights side‑by‑side. The platform exposes an Agent Client Protocol that lets AI coding agents interact directly with repositories, simplifying integration of AI workflows into standard development pipelines.
+
+**Areas:** Company · Git Hosting · AI · Version Control · Model Storage · Open Source
+
+## sigit-si on APIs.io
+
+Everything profiled for sigit-si is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sigit-si/](https://apis.io/providers/sigit-si/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [siGit API](https://apis.io/apis/sigit-si/sigit-api/) — siGit platform API documented at the reference page.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Sigit Si Authentication](https://apis.io/security/sigit-si/sigit-si-authentication/)
+- [Sigit Si Domain Security](https://apis.io/security/sigit-si/sigit-si-domain-security/)
+- [Sigit Si Trust Center](https://apis.io/security/sigit-si/sigit-si-trust-center/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Sigit Si Scopes](https://apis.io/scopes/sigit-si/sigit-si-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sigit.si/)
+- [Documentation](https://docs.sigit.si/)
+- [Getting started](https://docs.sigit.si/getting-started)
+- [API reference](https://docs.sigit.si/reference)
+- [Changelog](https://sigit.si/changelog)
+- [Compliance](https://trust.sigit.si/)
+- [Terms of service](https://sigit.si/terms)
+- [Privacy policy](https://sigit.si/privacy)
+- [GitHub](https://github.com/getsigit)
+
+## API Evangelist rating
+
+**Kin Score 26.1** — emerging · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 36.8 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sigit-si/](https://apis.io/providers/sigit-si/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for sigit-si: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sigit-si/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
